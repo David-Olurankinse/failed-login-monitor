@@ -19,16 +19,17 @@ A simple Python script that monitors failed SSH login attempts from system logs 
 ```bash
 sudo python3 monitor.py
 
+```
 
 Sample output:
-
-
+```
 Failed Login Attempts:
 192.168.1.45: 4 times
 203.0.113.88: 2 times
+```
 
 
-Author
+## Author
 
 **David Olurankinse**  
 [LinkedIn](https://www.linkedin.com/in/david-olurankinse-98210122b)  
